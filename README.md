@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/TobyVincentJohn](https://github.com/TobyVincentJohn)
 
-- 💬 Ask me about **GENAI, Machine Learning, Anime**
+- 💬 Ask me about **GENAI, Machine Learning**
 
 - 📫 How to reach me **tobyvincentjohn@gmail.com**
 
