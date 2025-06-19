@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Toby Vincent John</h1>
-<h3 align="center">The greatest AI dev you'll ever meet</h3>
 
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobyvincentjohn" alt="tobyvincentjohn" /></a> </p>-->
